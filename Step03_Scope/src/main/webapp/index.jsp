@@ -10,7 +10,7 @@
 	<div class="container">
 	<ul>
 		<li><a href = "${pageContext.request.contextPath}/fortune">오늘의 운세</a></li>
-	</ul>
+	</ul> 
 	</div>
 </body>
 </html>
